@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://psychemy.github.io/lantern_life/sitemap.xml
