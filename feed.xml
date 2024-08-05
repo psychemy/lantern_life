@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Lantern</title>
-    <link href="https://psychemy.github.io/lantern_life/feed.xml" rel="self" />
-    <link href="https://psychemy.github.io/lantern_life" />
+    <link href="https://lanternlife.co.uk/feed.xml" rel="self" />
+    <link href="https://lanternlife.co.uk" />
     <updated>2024-07-22T12:00:50+01:00</updated>
     <author>
         <name>Lantern Ltd.</name>
     </author>
-    <id>https://psychemy.github.io/lantern_life</id>
+    <id>https://lanternlife.co.uk</id>
 
     <entry>
         <title>Trauma-Informed Care</title>
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/trauma-informed-care/"/>
-        <id>https://psychemy.github.io/lantern_life/trauma-informed-care/</id>
-        <media:content url="https://psychemy.github.io/lantern_life/media/posts/42/trauma-icon.png" medium="image" />
+        <link href="https://lanternlife.co.uk/trauma-informed-care/"/>
+        <id>https://lanternlife.co.uk/trauma-informed-care/</id>
+        <media:content url="https://lanternlife.co.uk/media/posts/42/trauma-icon.png" medium="image" />
 
         <updated>2024-07-22T11:17:16+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://psychemy.github.io/lantern_life/media/posts/42/trauma-icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lanternlife.co.uk/media/posts/42/trauma-icon.png" class="type:primaryImage" alt="" /></p>
                 <h3>OVERVIEW:</h3>
 <p style="font-weight: 400;">This training provides a comprehensive understanding of Trauma-Informed Care. We explore the principles and practices of Trauma-Informed Care, focusing on recognising and responding to the signs and effects of trauma in individuals. Participants will learn how to create a supportive environment that promotes safety, trust, and empowerment, while developing strategies for integrating trauma-informed approaches into their daily interactions and practices.</p>
 <p style="font-weight: 400;"><strong><em>This course can be adapted for managers and team leaders to include, Developing and implementing Trauma-Informed policies and procedures.</em></strong></p>
@@ -43,8 +43,8 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/specialist-training/"/>
-        <id>https://psychemy.github.io/lantern_life/specialist-training/</id>
+        <link href="https://lanternlife.co.uk/specialist-training/"/>
+        <id>https://lanternlife.co.uk/specialist-training/</id>
 
         <updated>2023-07-02T12:05:52+01:00</updated>
             <summary></summary>
@@ -56,7 +56,7 @@
 <div class="page__grid">
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/trauma-informed-care/"><figure class="is-loaded"><img  src="https://psychemy.github.io/lantern_life/media/posts/41/trauma-icon-3.png" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://psychemy.github.io/lantern_life/media/posts/41/responsive/trauma-icon-3-xs.png 300w ,https://psychemy.github.io/lantern_life/media/posts/41/responsive/trauma-icon-3-sm.png 480w ,https://psychemy.github.io/lantern_life/media/posts/41/responsive/trauma-icon-3-md.png 749w ,https://psychemy.github.io/lantern_life/media/posts/41/responsive/trauma-icon-3-xl.png 1200w"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/trauma-informed-care/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/41/trauma-icon-3.png" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/41/responsive/trauma-icon-3-xs.png 300w ,https://lanternlife.co.uk/media/posts/41/responsive/trauma-icon-3-sm.png 480w ,https://lanternlife.co.uk/media/posts/41/responsive/trauma-icon-3-md.png 749w ,https://lanternlife.co.uk/media/posts/41/responsive/trauma-icon-3-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Trauma Informed Care</h2>
 </header>
@@ -65,7 +65,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/gender-specific-support/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/22/gender-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-md.png 749w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/gender-specific-support/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/22/gender-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-md.png 749w, https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/22/responsive/gender-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Gender Specific Support</h2>
 </header>
@@ -74,7 +74,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/gaming-and-social-media-dependency/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/21/gamepad-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-md.png 749w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/gaming-and-social-media-dependency/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/21/gamepad-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-md.png 749w, https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/21/responsive/gamepad-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Gaming &amp; Social Media Dependency</h2>
 </header>
@@ -83,7 +83,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/drug-and-alcohol/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/20/booze-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-md.png 749w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/drug-and-alcohol/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/20/booze-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-md.png 749w, https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/20/responsive/booze-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Drug &amp; Alcohol</h2>
 </header>
@@ -92,7 +92,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/domestic-violence-and-coercive-control/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/19/lock-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-md.png 749w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/domestic-violence-and-coercive-control/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/19/lock-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-md.png 749w, https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/19/responsive/lock-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Domestic Violence &amp; Coercive Control</h2>
 </header>
@@ -101,7 +101,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/confidence-and-self-esteem/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/18/heart-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-md.png 749w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/confidence-and-self-esteem/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/18/heart-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-md.png 749w, https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/18/responsive/heart-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Confidence &amp; Self Esteem</h2>
 </header>
@@ -110,7 +110,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/anxiety-and-stress-management/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/17/strong-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-md.png 749w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/anxiety-and-stress-management/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/17/strong-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-md.png 749w, https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/17/responsive/strong-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Anxiety &amp; Stress Management</h2>
 </header>
@@ -119,7 +119,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/vicarious-trauma/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/24/control-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-md.png 749w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/vicarious-trauma/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/24/control-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-md.png 749w, https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/24/responsive/control-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/24/responsive/control-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/24/responsive/control-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Vicarious Trauma</h2>
 </header>
@@ -135,8 +135,8 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/workshops/"/>
-        <id>https://psychemy.github.io/lantern_life/workshops/</id>
+        <link href="https://lanternlife.co.uk/workshops/"/>
+        <id>https://lanternlife.co.uk/workshops/</id>
 
         <updated>2023-07-02T11:52:45+01:00</updated>
             <summary></summary>
@@ -147,7 +147,7 @@
 <div class="page__grid">
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/stress/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/14/stress-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-md.png 749w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/stress/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/14/stress-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-md.png 749w, https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/14/responsive/stress-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Stress</h2>
 </header>
@@ -156,7 +156,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/sleep/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/13/bed-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-md.png 749w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/sleep/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/13/bed-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-md.png 749w, https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/13/responsive/bed-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Sleep</h2>
 </header>
@@ -165,7 +165,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/self-care/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/12/heart-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-md.png 749w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/self-care/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/12/heart-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-md.png 749w, https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/12/responsive/heart-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Self Care</h2>
 </header>
@@ -174,7 +174,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/resilience/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/11/anchor-icon-2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xs.png 300w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-sm.png 480w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-md.png 749w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/resilience/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/11/anchor-icon-2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xs.png 300w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-sm.png 480w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-md.png 749w, https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xs.png 300w ,https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-sm.png 480w ,https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-md.png 749w ,https://lanternlife.co.uk/media/posts/11/responsive/anchor-icon-2-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Resilience</h2>
 </header>
@@ -183,7 +183,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/mindfulness/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/10/meditate-icon-2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xs.png 300w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-sm.png 480w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-md.png 749w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xl.png 1200w" alt="" width="312" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/mindfulness/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/10/meditate-icon-2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xs.png 300w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-sm.png 480w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-md.png 749w, https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xl.png 1200w" alt="" width="312" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xs.png 300w ,https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-sm.png 480w ,https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-md.png 749w ,https://lanternlife.co.uk/media/posts/10/responsive/meditate-icon-2-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Mindfulness</h2>
 </header>
@@ -192,7 +192,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/intuition/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/9/predict-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-md.png 749w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/intuition/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/9/predict-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-md.png 749w, https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/9/responsive/predict-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Intuition</h2>
 </header>
@@ -201,7 +201,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/bounderies/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/8/fence-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-md.png 749w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xl.png 1200w" alt="Picket Fence Icon" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/bounderies/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/8/fence-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-md.png 749w, https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xl.png 1200w" alt="Picket Fence Icon" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/8/responsive/fence-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Boundaries</h2>
 </header>
@@ -210,7 +210,7 @@
 </article>
 <article class="page__item">
 <div class="page__item--center none divider--center">
-<div class="page__item-image"><a href="https://psychemy.github.io/lantern_life/anxiety/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/7/exclaim-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-md.png 749w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" data-is-external-image="true"></figure></a></div>
+<div class="page__item-image"><a href="https://lanternlife.co.uk/anxiety/"><figure class="is-loaded"><img  src="https://lanternlife.co.uk/media/posts/7/exclaim-icon.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xs.png 300w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-sm.png 480w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-md.png 749w, https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xl.png 1200w" alt="" width="313" height="313" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xs.png 300w ,https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-sm.png 480w ,https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-md.png 749w ,https://lanternlife.co.uk/media/posts/7/responsive/exclaim-icon-xl.png 1200w"></figure></a></div>
 <header class="page__item-header">
 <h2 class="page__item-title">Anxiety</h2>
 </header>
@@ -226,15 +226,15 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/mission-statement/"/>
-        <id>https://psychemy.github.io/lantern_life/mission-statement/</id>
+        <link href="https://lanternlife.co.uk/mission-statement/"/>
+        <id>https://lanternlife.co.uk/mission-statement/</id>
 
         <updated>2023-06-30T09:45:26+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center">The Lantern mission is to equip as many people as possible with tools to survive and thrive, and the opportunity to connect with themselves and others. We endeavour to meet everyone where they are at, without judgement, with empathy and unconditional regard. Our sessions will always deliver information to empower and inspire.</p>
-<p class="align-center"><img loading="lazy" src="https://psychemy.github.io/lantern_life/media/posts/39/66_quote-2.png" alt="" width="100" height="119" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://psychemy.github.io/lantern_life/media/posts/39/responsive/66_quote-2-xs.png 300w ,https://psychemy.github.io/lantern_life/media/posts/39/responsive/66_quote-2-sm.png 480w ,https://psychemy.github.io/lantern_life/media/posts/39/responsive/66_quote-2-md.png 749w ,https://psychemy.github.io/lantern_life/media/posts/39/responsive/66_quote-2-xl.png 1200w"></p>
+<p class="align-center"><img loading="lazy" src="https://lanternlife.co.uk/media/posts/39/66_quote-2.png" alt="" width="100" height="119" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://lanternlife.co.uk/media/posts/39/responsive/66_quote-2-xs.png 300w ,https://lanternlife.co.uk/media/posts/39/responsive/66_quote-2-sm.png 480w ,https://lanternlife.co.uk/media/posts/39/responsive/66_quote-2-md.png 749w ,https://lanternlife.co.uk/media/posts/39/responsive/66_quote-2-xl.png 1200w"></p>
 <h2 class="align-center">Giving back and working together</h2>
 <p class="align-center">We are delighted to offer free, or by donation, training sessions and wellbeing workshops to companies, charities, organisations and groups, who share our values and vision for a better world. We would also love to discuss any ideas for collaborations and skill swaps.</p>
 <p class="align-center">If you would like to nominate any organisations that would benefit please get in touch: <a href="mailto:emma@lanternlife.co.uk" target="_blank" rel="noopener">emma@lanternlife.co.uk</a></p>
@@ -246,8 +246,8 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/cookie-policy/"/>
-        <id>https://psychemy.github.io/lantern_life/cookie-policy/</id>
+        <link href="https://lanternlife.co.uk/cookie-policy/"/>
+        <id>https://lanternlife.co.uk/cookie-policy/</id>
 
         <updated>2021-08-26T16:00:43+01:00</updated>
             <summary></summary>
@@ -286,8 +286,8 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/privacy-policy/"/>
-        <id>https://psychemy.github.io/lantern_life/privacy-policy/</id>
+        <link href="https://lanternlife.co.uk/privacy-policy/"/>
+        <id>https://lanternlife.co.uk/privacy-policy/</id>
 
         <updated>2021-08-09T10:52:16+01:00</updated>
             <summary></summary>
@@ -346,15 +346,15 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/vicarious-trauma/"/>
-        <id>https://psychemy.github.io/lantern_life/vicarious-trauma/</id>
-        <media:content url="https://psychemy.github.io/lantern_life/media/posts/24/control-icon.png" medium="image" />
+        <link href="https://lanternlife.co.uk/vicarious-trauma/"/>
+        <id>https://lanternlife.co.uk/vicarious-trauma/</id>
+        <media:content url="https://lanternlife.co.uk/media/posts/24/control-icon.png" medium="image" />
 
         <updated>2021-07-01T09:42:46+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://psychemy.github.io/lantern_life/media/posts/24/control-icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lanternlife.co.uk/media/posts/24/control-icon.png" class="type:primaryImage" alt="" /></p>
                 <h3>OVERVIEW:</h3>
 <p>This training is an in-depth look at what Vicarious Trauma means and how it can impact on people in the workplace.  We learn about the signs and symptoms of Vicarious Trauma and apply this to how we can manage it as individuals, including how we advocate for ourselves in a team, how to address our work/life balance and how to apply healthy coping strategies.</p>
 <h3>COURSE TO INCLUDE:</h3>
@@ -373,15 +373,15 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/gender-specific-support/"/>
-        <id>https://psychemy.github.io/lantern_life/gender-specific-support/</id>
-        <media:content url="https://psychemy.github.io/lantern_life/media/posts/22/gender-icon.png" medium="image" />
+        <link href="https://lanternlife.co.uk/gender-specific-support/"/>
+        <id>https://lanternlife.co.uk/gender-specific-support/</id>
+        <media:content url="https://lanternlife.co.uk/media/posts/22/gender-icon.png" medium="image" />
 
         <updated>2021-07-01T09:39:36+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://psychemy.github.io/lantern_life/media/posts/22/gender-icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lanternlife.co.uk/media/posts/22/gender-icon.png" class="type:primaryImage" alt="" /></p>
                 <h3>OVERVIEW:</h3>
 <p>This bespoke training offers a unique insight into what a Gender Specific Approach is. Lantern offers the client the opportunity to learn about the benefits as well as the differences that inform the Gender Specific Approach and applies this to supporting clients as well as staff teams.</p>
 <h3>COURSE TO INCLUDE:</h3>
@@ -398,15 +398,15 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/gaming-and-social-media-dependency/"/>
-        <id>https://psychemy.github.io/lantern_life/gaming-and-social-media-dependency/</id>
-        <media:content url="https://psychemy.github.io/lantern_life/media/posts/21/gamepad-icon.png" medium="image" />
+        <link href="https://lanternlife.co.uk/gaming-and-social-media-dependency/"/>
+        <id>https://lanternlife.co.uk/gaming-and-social-media-dependency/</id>
+        <media:content url="https://lanternlife.co.uk/media/posts/21/gamepad-icon.png" medium="image" />
 
         <updated>2021-07-01T09:37:57+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://psychemy.github.io/lantern_life/media/posts/21/gamepad-icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lanternlife.co.uk/media/posts/21/gamepad-icon.png" class="type:primaryImage" alt="" /></p>
                 <h3>OVERVIEW:</h3>
 <p>As our work/life balance becomes more impacted by the modern world we increasingly look for ways to escape the stresses and strains put upon us. Lantern reflects on what can happen when we develop a dependency, particularly focusing on gaming and social media. By learning about dependency, we can then introduce ways to bring the associated behaviours into our awareness and create choice.</p>
 <h3>COURSE TO INCLUDE:</h3>
@@ -425,15 +425,15 @@
         <author>
             <name>Lantern Ltd.</name>
         </author>
-        <link href="https://psychemy.github.io/lantern_life/drug-and-alcohol/"/>
-        <id>https://psychemy.github.io/lantern_life/drug-and-alcohol/</id>
-        <media:content url="https://psychemy.github.io/lantern_life/media/posts/20/booze-icon.png" medium="image" />
+        <link href="https://lanternlife.co.uk/drug-and-alcohol/"/>
+        <id>https://lanternlife.co.uk/drug-and-alcohol/</id>
+        <media:content url="https://lanternlife.co.uk/media/posts/20/booze-icon.png" medium="image" />
 
         <updated>2021-07-01T09:36:10+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://psychemy.github.io/lantern_life/media/posts/20/booze-icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://lanternlife.co.uk/media/posts/20/booze-icon.png" class="type:primaryImage" alt="" /></p>
                 <h3>OVERVIEW:</h3>
 <p>Lantern has extensive experience in the field of dependency and brings this knowledge to the workplace to offer a trauma-informed insight into the cause and effects of alcohol and drug use. Working from the ethos of a therapeutic approach we look at needs fulfilment and the effect of unmanaged alcohol and drug use on an individual’s wellbeing. We explore ways to change or maintain lifestyles, and how to reduce the impact on physical and mental health.</p>
 <h3>COURSE TO INCLUDE:</h3>
