@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lanternlife.co.uk/sitemap.xml
