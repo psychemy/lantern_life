@@ -3,12 +3,29 @@
     <title>Lantern</title>
     <link href="https://lanternlife.co.uk/feed.xml" rel="self" />
     <link href="https://lanternlife.co.uk" />
-    <updated>2024-08-05T10:52:42+01:00</updated>
+    <updated>2024-08-10T11:09:17+01:00</updated>
     <author>
         <name>Lantern Ltd.</name>
     </author>
     <id>https://lanternlife.co.uk</id>
 
+    <entry>
+        <title>Terms &amp; Conditions</title>
+        <author>
+            <name>Lantern Ltd.</name>
+        </author>
+        <link href="https://lanternlife.co.uk/terms-and-conditions/"/>
+        <id>https://lanternlife.co.uk/terms-and-conditions/</id>
+
+        <updated>2024-08-10T11:09:17+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Lantern Retreats:</h2>
+<p>T&amp;Cs go here.....</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Trauma-Informed Care</title>
         <author>
@@ -416,33 +433,6 @@
 <li>What is Mindfulness and how to use it as an effective tool</li>
 <li>Cycle of change</li>
 <li>Overcome barriers to change – ABC technique</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Drug &amp; Alcohol</title>
-        <author>
-            <name>Lantern Ltd.</name>
-        </author>
-        <link href="https://lanternlife.co.uk/drug-and-alcohol/"/>
-        <id>https://lanternlife.co.uk/drug-and-alcohol/</id>
-        <media:content url="https://lanternlife.co.uk/media/posts/20/booze-icon.png" medium="image" />
-
-        <updated>2021-07-01T09:36:10+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lanternlife.co.uk/media/posts/20/booze-icon.png" class="type:primaryImage" alt="" /></p>
-                <h3>OVERVIEW:</h3>
-<p>Lantern has extensive experience in the field of dependency and brings this knowledge to the workplace to offer a trauma-informed insight into the cause and effects of alcohol and drug use. Working from the ethos of a therapeutic approach we look at needs fulfilment and the effect of unmanaged alcohol and drug use on an individual’s wellbeing. We explore ways to change or maintain lifestyles, and how to reduce the impact on physical and mental health.</p>
-<h3>COURSE TO INCLUDE:</h3>
-<ul>
-<li>Substance identification and physiological impact</li>
-<li>What is a trauma informed approach?</li>
-<li>Needs fulfilment</li>
-<li>Dependency and the workplace</li>
-<li>Triggers, tips and tools</li>
 </ul>
             ]]>
         </content>

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://lanternlife.co.uk/terms-and-conditions/",
+            "url": "https://lanternlife.co.uk/terms-and-conditions/",
+            "title": "Terms &amp; Conditions",
+            "content_html": "<h2 class=\"align-center\">Lantern Retreats:</h2>\n<p>T&amp;Cs go here.....</p>",
+            "author": {
+                "name": "Lantern Ltd."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-10T11:09:17+01:00",
+            "date_modified": "2024-08-10T11:09:17+01:00"
+        },
+        {
             "id": "https://lanternlife.co.uk/trauma-informed-care/",
             "url": "https://lanternlife.co.uk/trauma-informed-care/",
             "title": "Trauma-Informed Care",
@@ -130,20 +143,6 @@
             ],
             "date_published": "2021-07-01T09:37:57+01:00",
             "date_modified": "2021-09-22T11:57:01+01:00"
-        },
-        {
-            "id": "https://lanternlife.co.uk/drug-and-alcohol/",
-            "url": "https://lanternlife.co.uk/drug-and-alcohol/",
-            "title": "Drug &amp; Alcohol",
-            "content_html": "<h3>OVERVIEW:</h3>\n<p>Lantern has extensive experience in the field of dependency and brings this knowledge to the workplace to offer a trauma-informed insight into the cause and effects of alcohol and drug use. Working from the ethos of a therapeutic approach we look at needs fulfilment and the effect of unmanaged alcohol and drug use on an individual’s wellbeing. We explore ways to change or maintain lifestyles, and how to reduce the impact on physical and mental health.</p>\n<h3>COURSE TO INCLUDE:</h3>\n<ul>\n<li>Substance identification and physiological impact</li>\n<li>What is a trauma informed approach?</li>\n<li>Needs fulfilment</li>\n<li>Dependency and the workplace</li>\n<li>Triggers, tips and tools</li>\n</ul>",
-            "image": "https://lanternlife.co.uk/media/posts/20/booze-icon.png",
-            "author": {
-                "name": "Lantern Ltd."
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-01T09:36:10+01:00",
-            "date_modified": "2021-09-07T13:33:02+01:00"
         }
     ]
 }
