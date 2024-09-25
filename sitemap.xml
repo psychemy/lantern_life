@@ -28,7 +28,7 @@
 </url>
 <url>
 <loc>https://lanternlife.co.uk/bounderies/</loc>
-<lastmod>2021-09-07T13:28:27+01:00</lastmod>
+<lastmod>2024-09-25T11:56:41+01:00</lastmod>
 <image:image>
 <image:loc>https://lanternlife.co.uk/media/posts/8/fence-icon.png</image:loc>
 <image:title><![CDATA[Picket Fence Icon]]></image:title>
@@ -267,7 +267,7 @@
 </url>
 <url>
 <loc>https://lanternlife.co.uk/self-care/</loc>
-<lastmod>2024-09-24T13:02:51+01:00</lastmod>
+<lastmod>2024-09-25T11:55:12+01:00</lastmod>
 <image:image>
 <image:loc>https://lanternlife.co.uk/media/posts/12/heart-icon.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -275,7 +275,7 @@
 </url>
 <url>
 <loc>https://lanternlife.co.uk/sleep/</loc>
-<lastmod>2024-09-24T13:14:57+01:00</lastmod>
+<lastmod>2024-09-25T11:56:13+01:00</lastmod>
 <image:image>
 <image:loc>https://lanternlife.co.uk/media/posts/13/bed-icon.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -324,6 +324,9 @@
 <image:loc>https://lanternlife.co.uk/media/posts/14/stress-icon.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://lanternlife.co.uk/tags/</loc>
 </url>
 <url>
 <loc>https://lanternlife.co.uk/terms-and-conditions/</loc>
